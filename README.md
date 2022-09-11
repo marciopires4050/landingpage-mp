@@ -1,5 +1,5 @@
 # landingpage-mp
-Usei displa Flex no CSS como no exemplo a baixo da classe:
+Usei display Flex no CSS como no exemplo a baixo da classe:
 
 .conteudo-principal-escrito {
   display: flex;
